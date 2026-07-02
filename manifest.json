@@ -1,7 +1,7 @@
 {
-  "name": "Glen Powell Top Gun Workout",
-  "short_name": "GP Workout",
-  "description": "Track Glen Powell's Top Gun: Maverick workout routine with built-in rest timers",
+  "name": "UP Transform Workout",
+  "short_name": "UP Workout",
+  "description": "Track your Ultimate Performance 6-week transformation workout with built-in rest timers",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#0a0a0a",
@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='90' fill='%23e63946'/><text x='256' y='340' font-size='280' font-weight='bold' text-anchor='middle' fill='white' font-family='Arial'>GP</text></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='90' fill='%23e63946'/><text x='256' y='340' font-size='280' font-weight='bold' text-anchor='middle' fill='white' font-family='Arial'>UP</text></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"

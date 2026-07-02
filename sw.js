@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gp-workout-v1';
+const CACHE_NAME = 'gp-workout-v3';
 const urlsToCache = ['/', '/index.html'];
 
 self.addEventListener('install', e => {
