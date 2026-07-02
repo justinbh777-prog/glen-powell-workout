@@ -1,5 +1,5 @@
-const CACHE_NAME = 'gp-workout-v3';
-const urlsToCache = ['/', '/index.html'];
+const CACHE_NAME = 'gp-workout-v4';
+const urlsToCache = ['./', './index.html'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE_NAME).then(c => c.addAll(urlsToCache)));
